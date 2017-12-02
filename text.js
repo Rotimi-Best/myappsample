@@ -1,3 +1,5 @@
+THIS IS MY GIT TUTORIAL WITH TRAVERSY MEDIA AKA BRAD
+
 git init -> this initializes a repository
 
 git status -> this is to check the status of all the files
